@@ -16,4 +16,4 @@ Backend: Node.js, Express.js
 Database: MongoDB
 Styling: CSS Modules, Responsive Design
 Charts: Recharts for visual data representation
-Deployment: Hosted on [Heroku/Netlify/AWS/etc.]
+
